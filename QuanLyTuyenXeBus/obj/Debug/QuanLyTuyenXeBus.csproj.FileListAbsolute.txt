@@ -1,0 +1,89 @@
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\QuanLyTuyenXeBus\bin\Debug\QuanLyTuyenXeBus.exe.config
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\QuanLyTuyenXeBus\bin\Debug\QuanLyTuyenXeBus.exe
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\QuanLyTuyenXeBus\bin\Debug\QuanLyTuyenXeBus.pdb
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.csprojResolveAssemblyReference.cache
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.frmDangNhap.resources
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.Properties.Resources.resources
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.csproj.GenerateResource.Cache
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.csproj.CoreCompileInputs.cache
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.exe
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.pdb
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\QuanLyTuyenXeBus\bin\Debug\BAL.dll
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\QuanLyTuyenXeBus\bin\Debug\BEL.dll
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\QuanLyTuyenXeBus\bin\Debug\DAL.dll
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\QuanLyTuyenXeBus\bin\Debug\BAL.pdb
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\QuanLyTuyenXeBus\bin\Debug\BEL.pdb
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\QuanLyTuyenXeBus\bin\Debug\DAL.pdb
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.NhanVien.resources
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.QuanLy.resources
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.Contro_QLTX.resources
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.Control_QLDV.resources
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.Control_QLTaiXe.resources
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.Control_QLXe.resources
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.Controp_QLNhanVien.resources
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\QuanLyTuyenXeBus\bin\Debug\BAL.dll.config
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.NhanVien2.resources
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.Control_NV_QLTX.resources
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.Control_NV_QLDV.resources
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.Control_NV_QLTaiXe.resources
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.Control_NV_QLXe.resources
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\bin\Debug\QuanLyTuyenXeBus.exe.config
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\bin\Debug\QuanLyTuyenXeBus.exe
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\bin\Debug\QuanLyTuyenXeBus.pdb
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\bin\Debug\BAL.dll
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\bin\Debug\BEL.dll
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\bin\Debug\DAL.dll
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\bin\Debug\BAL.pdb
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\bin\Debug\BAL.dll.config
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\bin\Debug\BEL.pdb
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\bin\Debug\DAL.pdb
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.csproj.AssemblyReference.cache
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.Control_NV_QLDV.resources
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.Control_NV_QLTaiXe.resources
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.Control_NV_QLTX.resources
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.Control_NV_QLXe.resources
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.Control_QLDV.resources
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.Control_QLTaiXe.resources
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.Control_QLXe.resources
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.Controp_QLNhanVien.resources
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.Contro_QLTX.resources
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.frmDangNhap.resources
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.NhanVien.resources
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.NhanVien2.resources
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.Properties.Resources.resources
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.QuanLy.resources
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.csproj.GenerateResource.cache
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.csproj.CoreCompileInputs.cache
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.csproj.CopyComplete
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.exe
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.pdb
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\bin\Debug\QuanLyTuyenXeBus.exe.config
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\bin\Debug\QuanLyTuyenXeBus.exe
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\bin\Debug\QuanLyTuyenXeBus.pdb
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\bin\Debug\BAL.dll
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\bin\Debug\BEL.dll
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\bin\Debug\DAL.dll
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\bin\Debug\BAL.pdb
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\bin\Debug\BAL.dll.config
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\bin\Debug\BEL.pdb
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\bin\Debug\DAL.pdb
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.csproj.AssemblyReference.cache
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.Control_NV_QLDV.resources
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.Control_NV_QLTaiXe.resources
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.Control_NV_QLTX.resources
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.Control_NV_QLXe.resources
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.Control_QLDV.resources
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.Control_QLTaiXe.resources
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.Control_QLXe.resources
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.Controp_QLNhanVien.resources
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.Contro_QLTX.resources
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.frmDangNhap.resources
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.NhanVien.resources
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.NhanVien2.resources
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.Properties.Resources.resources
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.QuanLy.resources
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.csproj.GenerateResource.cache
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.csproj.CoreCompileInputs.cache
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.csproj.CopyComplete
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.exe
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\QuanLyTuyenXeBus\obj\Debug\QuanLyTuyenXeBus.pdb

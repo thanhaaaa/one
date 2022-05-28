@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{94BD28DB-7032-49B5-AD2A-945FFC0E4AAD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>QuanLyTuyenXeBus</RootNamespace>
+    <AssemblyName>QuanLyTuyenXeBus</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3, Version=1.5.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Control_NV_QLDV.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Control_NV_QLDV.Designer.cs">
+      <DependentUpon>Control_NV_QLDV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Control_NV_QLTaiXe.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Control_NV_QLTaiXe.Designer.cs">
+      <DependentUpon>Control_NV_QLTaiXe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Control_NV_QLTX.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Control_NV_QLTX.Designer.cs">
+      <DependentUpon>Control_NV_QLTX.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Control_NV_QLXe.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Control_NV_QLXe.Designer.cs">
+      <DependentUpon>Control_NV_QLXe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Control_QLDV.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Control_QLDV.Designer.cs">
+      <DependentUpon>Control_QLDV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Control_QLTaiXe.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Control_QLTaiXe.Designer.cs">
+      <DependentUpon>Control_QLTaiXe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Control_QLXe.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Control_QLXe.Designer.cs">
+      <DependentUpon>Control_QLXe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controp_QLNhanVien.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controp_QLNhanVien.Designer.cs">
+      <DependentUpon>Controp_QLNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Contro_QLTX.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Contro_QLTX.Designer.cs">
+      <DependentUpon>Contro_QLTX.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDangNhap.Designer.cs">
+      <DependentUpon>frmDangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NhanVien.Designer.cs">
+      <DependentUpon>NhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhanVien2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NhanVien2.Designer.cs">
+      <DependentUpon>NhanVien2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QuanLy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuanLy.Designer.cs">
+      <DependentUpon>QuanLy.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Control_NV_QLDV.resx">
+      <DependentUpon>Control_NV_QLDV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Control_NV_QLTaiXe.resx">
+      <DependentUpon>Control_NV_QLTaiXe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Control_NV_QLTX.resx">
+      <DependentUpon>Control_NV_QLTX.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Control_NV_QLXe.resx">
+      <DependentUpon>Control_NV_QLXe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Control_QLDV.resx">
+      <DependentUpon>Control_QLDV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Control_QLTaiXe.resx">
+      <DependentUpon>Control_QLTaiXe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Control_QLXe.resx">
+      <DependentUpon>Control_QLXe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controp_QLNhanVien.resx">
+      <DependentUpon>Controp_QLNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contro_QLTX.resx">
+      <DependentUpon>Contro_QLTX.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDangNhap.resx">
+      <DependentUpon>frmDangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhanVien.resx">
+      <DependentUpon>NhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhanVien2.resx">
+      <DependentUpon>NhanVien2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="QuanLy.resx">
+      <DependentUpon>QuanLy.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BAL\BAL.csproj">
+      <Project>{BB0C2A40-B056-44B3-BE9C-4D5494614C63}</Project>
+      <Name>BAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BEL\BEL.csproj">
+      <Project>{49D0A3C6-3AC7-482F-B2ED-A7957796461C}</Project>
+      <Name>BEL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\bus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\bus.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\plus.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

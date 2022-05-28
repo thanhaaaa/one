@@ -1,0 +1,60 @@
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\BAL\bin\Debug\BAL.dll
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\BAL\bin\Debug\BAL.pdb
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\BAL\bin\Debug\BEL.dll
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\BAL\bin\Debug\DAL.dll
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\BAL\bin\Debug\BEL.pdb
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\BAL\bin\Debug\DAL.pdb
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\BAL\obj\Debug\BAL.dll
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\BAL\obj\Debug\BAL.pdb
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\BAL\bin\Debug\BAL.dll.config
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\BAL\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\BAL\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\BAL\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\BAL\bin\Debug\Microsoft.Build.dll
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\BAL\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\BAL\bin\Debug\System.Collections.Immutable.dll
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\BAL\bin\Debug\System.IO.Compression.dll
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\BAL\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\BAL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\BAL\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\BAL\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\BAL\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\BAL\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\BAL\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\BAL\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\BAL\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\BAL\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\BAL\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\BAL\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\BAL\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\BAL\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\BAL\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\BAL\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\BAL\bin\Debug\BAL.dll.config
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\BAL\bin\Debug\BAL.dll
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\BAL\bin\Debug\BAL.pdb
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\BAL\bin\Debug\BEL.dll
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\BAL\bin\Debug\DAL.dll
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\BAL\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\BAL\bin\Debug\BEL.pdb
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\BAL\bin\Debug\DAL.pdb
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\BAL\obj\Debug\BAL.csproj.AssemblyReference.cache
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\BAL\obj\Debug\BAL.csproj.CopyComplete
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\BAL\obj\Debug\BAL.dll
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\BAL\obj\Debug\BAL.pdb
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\BAL\bin\Debug\BAL.dll.config
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\BAL\bin\Debug\BAL.dll
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\BAL\bin\Debug\BAL.pdb
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\BAL\bin\Debug\BEL.dll
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\BAL\bin\Debug\DAL.dll
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\BAL\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\BAL\bin\Debug\BEL.pdb
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\BAL\bin\Debug\DAL.pdb
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\BAL\obj\Debug\BAL.csproj.AssemblyReference.cache
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\BAL\obj\Debug\BAL.csproj.CopyComplete
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\BAL\obj\Debug\BAL.dll
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\BAL\obj\Debug\BAL.pdb

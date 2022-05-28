@@ -1,0 +1,17 @@
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\DAL\bin\Debug\DAL.dll
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\DAL\bin\Debug\DAL.pdb
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\DAL\obj\Debug\DAL.dll
+C:\Users\QuangHau\source\repos\QuanLyTuyenXeBus\DAL\obj\Debug\DAL.pdb
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\DAL\bin\Debug\DAL.dll
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\DAL\bin\Debug\DAL.pdb
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\DAL\obj\Debug\DAL.dll
+C:\Users\THANH\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\DAL\obj\Debug\DAL.pdb
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\DAL\bin\Debug\DAL.dll
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\DAL\bin\Debug\DAL.pdb
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\DAL\obj\Debug\DAL.dll
+C:\Users\phung\Downloads\Đồ án CNPM\QuanLyTuyenXeBus\DAL\obj\Debug\DAL.pdb
